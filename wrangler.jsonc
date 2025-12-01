@@ -1,0 +1,7 @@
+{
+  "name": "react-graphql-openai",
+  "compatibility_date": "2025-12-01",
+  "assets": {
+    "directory": "./dist"
+  }
+}
